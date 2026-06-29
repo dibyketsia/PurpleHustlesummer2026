@@ -26,6 +26,4 @@ print(f"Welcome to Loop, {username}")
 
 # Ticket 4
 
-print(username[KETSIAHUSTLE])
-feed = [hustle, summer, coding]
-print(len(feed))
+print(username)
