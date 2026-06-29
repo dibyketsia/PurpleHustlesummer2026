@@ -26,7 +26,6 @@ print(f"Welcome to Loop, {username}")
 
 # Ticket 4
 
-username[0] = "X" # run this, it breaks on purpose
 print(username[KETSIAHUSTLE])
 feed = [hustle, summer, coding]
 print(len(feed))
