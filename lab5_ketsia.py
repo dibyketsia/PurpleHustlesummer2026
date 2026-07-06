@@ -1,4 +1,4 @@
-# Ketsia
+# Ketsia | Lab 5 hunt fixed
 
 # BUG 1: this function is missing something at the end of te line 
 def send_vibe():
